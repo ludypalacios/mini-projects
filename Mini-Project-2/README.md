@@ -4,7 +4,7 @@
 
 ### Team Contributions
 - **Richmond Ian Ramirez:** Completed the original implementation of Steps 1–3.
-- **Ludy A. Palacios:** Responsible for Steps 4–6 and revised Steps 1–3.
+- **Ludy A. Palacios:** Completed for Steps 4–6 and revised Steps 1–3.
 - **Andrew Santillana:** Completed last Steps 7–8
 - **Christopher Jones:**
 
