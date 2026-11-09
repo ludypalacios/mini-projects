@@ -1,13 +1,12 @@
 # ECE 3715 — Mini Projects
 
-Team Members
-
-Ludy A. Palacios
-Andrew Santillana
-Richmond Ian Ramirez
-Christopher S. Jones
-
 This repository contains our team’s mini projects.
+
+## Team Members
+- Ludy A. Palacios
+- Andrew Santillana
+- Richmond Ian Ramirez
+- Christopher S. Jones
 
 ## Projects
 - [Mini Project 1](Mini-Project-1/)
