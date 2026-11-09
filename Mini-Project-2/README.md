@@ -20,9 +20,6 @@ The seed remains fixed, with a separate random generator for each step.
 ### Runtime and Status
 All 14 code cells, covering Steps 1–8 and Bonuses A and B, completed successfully in approximately 20 seconds.
 
-### Runtime and Status
-Steps 1–6 ran without errors in approximately 15.3 seconds locally.
-Steps 7–8 ran successfully in JupyterLite, including Figures 8 and 9. Final full-notebook runtime verification remains pending.
 
 ### Project Video
 [Watch our project presentation](https://youtu.be/kDhUmcfQEoA)
