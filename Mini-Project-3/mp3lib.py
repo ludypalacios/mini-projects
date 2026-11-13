@@ -50,9 +50,14 @@ def gaussian_pdf(x, mu, Sigma):
     elif x.ndim == 1:
         x = x.reshape(-1, 1) if d == 1 else x.reshape(1, d)
 
+    if not np.allclose(Sigma, Sigma.T, rtol=1e-12, atol=0.0):
+        raise np.linalg.LinAlgError("Sigma must be symmetric")
+    eigvals = np.linalg.eigvalsh(Sigma)
+    # A rank-deficient covariance can have a small positive computed determinant.
+    tol = d * np.finfo(float).eps * np.max(np.abs(eigvals))
+    if eigvals[0] <= tol:
+        raise np.linalg.LinAlgError("Sigma must be positive definite at working precision")
     det = np.linalg.det(Sigma)
-    if det <= 0:
-        raise np.linalg.LinAlgError("Sigma is singular, density does not exist")
 
     diff = x - mu
     # Mahalanobis distance: (x-mu)^T Sigma^-1 (x-mu), using solve instead of inv
