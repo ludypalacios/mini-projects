@@ -2,7 +2,7 @@
 Seed Snapshot
 # ECE 3715 Mini-Project 3
 
-Random Vectors and the Multivariate Gaussian
+Random Vectors and the Multivariate Gaussian   
 
 ## Team Contributions
 
