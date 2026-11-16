@@ -31,16 +31,3 @@ To reproduce the run, keep the files together and use a Python 3 Jupyter kernel 
 ## Project Video
 
 [Add the presentation link here, if applicable.]
-### Team Contributions
-
-- **Andrew Santillana:** Completed Steps 7–8, including conditional Gaussian calculations, sensor fusion analysis, simulations, Figures 8 and 9, and written interpretations.
-
-### Completed Notebook
-
-- `notebooks_mp3_completed_steps_7_8.ipynb`: Updated notebook containing Steps 1–8, including Andrew's completed Steps 7–8.
-
-### Runtime and Status
-
-- Random seed: 199593370
-- Total runtime: Approximately 30 seconds.
-- Steps 7–8 completed and tested successfully.
