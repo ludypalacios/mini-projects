@@ -6,7 +6,7 @@ This repository contains our team’s mini projects.
 - Ludy A. Palacios
 - Andrew Santillana
 - Richmond Ian Ramirez
-- Christopher S. Jones
+
 
 ## Projects
 - [Mini Project 1](Mini-Project-1/)
