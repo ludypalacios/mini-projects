@@ -7,11 +7,11 @@ Random Vectors and the Multivariate Gaussian
 
 # Team Contributions
 
--Richmond Ian Ramirez: Implemented Steps 1–3.#
+-Richmond Ian Ramirez: Implemented Steps 1–3.
 
--Ludy A. Palacios: Implemented Steps 4–6, revised Steps 1–8, and completed Bonuses A and B.#
+-Ludy A. Palacios: Implemented Steps 4–6, revised Steps 1–8, and completed Bonuses A and B.
 
--Andrew Santillana | Implemented Steps 7–8.#
+-Andrew Santillana | Implemented Steps 7–8.
 
 
 ## Random Seed
