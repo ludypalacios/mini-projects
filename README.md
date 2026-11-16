@@ -1,6 +1,6 @@
 # ECE 3715 — Mini Projects
 
-This repository contains our team’s mini projects.
+This repository contains our team’s mini projects.  
 
 ## Team Members
 - Ludy A. Palacios
