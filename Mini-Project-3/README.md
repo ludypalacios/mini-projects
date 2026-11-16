@@ -22,7 +22,7 @@ The notebook uses the fixed seed `199593370`. The setup cell spawns a separate r
 
 - [`mp3.ipynb`](mp3.ipynb) contains the derivations, simulations, figures, and interpretations.
 - [`mp3lib.py`](mp3lib.py) contains the numerical helper functions.
-- [`iris.data`](iris.data) contains Fisher’s Iris measurements for Bonus B. [UCI Machine Learning Repository](https://doi.org/10.24432/C56C76) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- [`iris.data`](iris.data) contains Fisher’s Iris measurements for Bonus B. [UCI Machine Learning Repository](https://doi.org/10.24432/C56C76).
 
 ## Runtime and Status
 
