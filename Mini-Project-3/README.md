@@ -28,8 +28,6 @@ The notebook uses the fixed seed `199593370`. The setup cell spawns a separate r
 
 All 28 code cells completed without errors in 14.8 seconds on a clean kernel, covering Steps 1–8 and Bonuses A and B. The notebook contains all 10 figures and the numerical output from that run.
 
-To reproduce the run, keep the files together and use a Python 3 Jupyter kernel with NumPy 2.x, SciPy, and Matplotlib. Restart the kernel and run all cells.
-
 ## Project Video
 
 [Add the presentation link here, if applicable.]
