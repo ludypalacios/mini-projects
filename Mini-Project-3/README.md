@@ -23,8 +23,7 @@ The notebook uses the fixed seed `199593370`. The setup cell spawns a separate r
 - [`iris.data`](iris.data) contains Fisher’s Iris measurements for Bonus B. [UCI Machine Learning Repository](https://doi.org/10.24432/C56C76).
 
 ## Runtime and Status
-
-All 28 code cells completed without errors in 14.8 seconds on a clean kernel, covering Steps 1–8 and Bonuses A and B. The notebook contains all 10 figures and the numerical output from that run.
+All 28 code cells completed in 17 seconds in the latest run, covering Steps 1–8 and Bonuses A and B. The notebook includes all 10 figures and the numerical results.
 
 ## Project Video
 
