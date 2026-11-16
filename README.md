@@ -11,6 +11,6 @@ This repository contains our team’s mini projects.
 ## Projects
 - [Mini Project 1](Mini-Project-1/)
 - [Mini Project 2: Continuous Random Variables](Mini-Project-2/)
-- [Mini Project 3: Random Vectors and the Multivariate Gaussian](./mp3/)
+- [Mini Project 3: Random Vectors and the Multivariate Gaussian](Mini-Project-3/)
 
 Each folder contains its notebook, supporting Python library, and README with project details, team contributions, and presentation links.
