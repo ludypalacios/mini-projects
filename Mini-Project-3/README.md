@@ -1,16 +1,16 @@
 <img width="2614" height="195" alt="image" src="https://github.com/user-attachments/assets/89d26d87-9f6e-4ca0-8081-eba1596740f6" />
 Seed Snapshot
+# ECE 3715 Mini-Project 3
 
 Random Vectors and the Multivariate Gaussian
 
 ## Team Contributions
 
-Team member | Contribution |
+| Team member | Contribution |
 | --- | --- |
 | Richmond Ian Ramirez | Implemented Steps 1–3. |
 | Ludy A. Palacios | Implemented Steps 4–6, revised Steps 1–8, and completed Bonuses A and B. |
-| Andrew Santillana | Implemented Steps 7–8.
-
+| Andrew Santillana | Implemented Steps 7–8. |
 
 ## Random Seed
 
