@@ -7,7 +7,7 @@ Seed Snapshot
 
 -Richmond Ian Ramirez: Implemented Steps 1–3.
 
--Ludy A. Palacios: Implemented Steps 4–6, revised Steps 1–8, and completed Bonuses A and B.
+-Ludy A. Palacios: Implemented Steps 4–6.
 
 -Andrew Santillana: Implemented Steps 7–8.
 
